@@ -1,0 +1,9 @@
+total 0
+lrwxrwxrwx. 1 root root 0 Nov 10 20:07 sdw:0:1:0102:0000:01:a -> ../../../devices/pci0000:00/0000:00:1f.3/soundwire_intel.link.1/sdw-master-0-1/sdw:0:1:0102:0000:01:a
+lrwxrwxrwx. 1 root root 0 Nov 10 20:07 sdw:0:1:0102:0000:01:d -> ../../../devices/pci0000:00/0000:00:1f.3/soundwire_intel.link.1/sdw-master-0-1/sdw:0:1:0102:0000:01:d
+lrwxrwxrwx. 1 root root 0 Nov 10 20:07 sdw:0:2:0102:0000:01:9 -> ../../../devices/pci0000:00/0000:00:1f.3/soundwire_intel.link.2/sdw-master-0-2/sdw:0:2:0102:0000:01:9
+lrwxrwxrwx. 1 root root 0 Nov 10 20:07 sdw:0:2:0102:0000:01:c -> ../../../devices/pci0000:00/0000:00:1f.3/soundwire_intel.link.2/sdw-master-0-2/sdw:0:2:0102:0000:01:c
+lrwxrwxrwx. 1 root root 0 Nov 10 20:08 sdw:0:3:025d:0712:01 -> ../../../devices/pci0000:00/0000:00:1f.3/soundwire_intel.link.3/sdw-master-0-3/sdw:0:3:025d:0712:01
+lrwxrwxrwx. 1 root root 0 Nov 10 20:07 sdw-master-0-1 -> ../../../devices/pci0000:00/0000:00:1f.3/soundwire_intel.link.1/sdw-master-0-1
+lrwxrwxrwx. 1 root root 0 Nov 10 20:07 sdw-master-0-2 -> ../../../devices/pci0000:00/0000:00:1f.3/soundwire_intel.link.2/sdw-master-0-2
+lrwxrwxrwx. 1 root root 0 Nov 10 20:08 sdw-master-0-3 -> ../../../devices/pci0000:00/0000:00:1f.3/soundwire_intel.link.3/sdw-master-0-3
